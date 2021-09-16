@@ -1,12 +1,9 @@
 
-This is a React Native App, using FireBase as DB
-=
-This App is an app for freelance workers and service seekers to meet each other
-=
-Any one that needs freelance service can post advertisements
-=
-Freelance workers can see ads on this app and apply
-=
+ + This is a React Native App, using FireBase as DB
+ + This App is an app for freelance workers and service seekers to meet each other
+ + Any one that needs freelance service can post advertisements
+ + Freelance workers can see ads on this app and apply
+
 
 COMP3330 Project FreeTrust (Group: 19)
 Prequisite:
