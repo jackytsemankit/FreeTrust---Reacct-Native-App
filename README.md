@@ -1,5 +1,5 @@
- #Demo video:
- #https://drive.google.com/file/d/1Zz2DiXAJli9Gdj-M5ZoecPcgheAUiYO7/view?usp=sharing
+ # Demo video:
+ # https://drive.google.com/file/d/1Zz2DiXAJli9Gdj-M5ZoecPcgheAUiYO7/view?usp=sharing
  + This is a React Native App, using FireBase as DB
  + This App is an app for freelance workers and service seekers to meet each other
  + Any one that needs freelance service can post advertisements
